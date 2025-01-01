@@ -26,3 +26,29 @@ Younger, single individuals are the most receptive to coupons, especially when a
 Context matters: favorable weather, optimal timing, and shorter proximity to coupon redemption increase acceptance rates.
 Specific demographic and behavioral patterns can guide targeted coupon campaigns for higher success rates.
 These insights can inform marketing strategies, ensuring coupons are tailored to the right audience at the right time and place.
+
+The Optimum coupon acceptance is as follows:
+Bar:
+
+Age: 21
+Gender: Male
+Marital Status: Single
+Income: $25,000 - $37,499
+Time: 6PM
+Weather: Sunny
+Coffee House:
+
+Age: 21
+Gender: Female
+Marital Status: Single
+Income: $12,500 - $24,999
+Time: 10AM
+Weather: Sunny
+Restaurant (<$20):
+
+Age: 21
+Gender: Female
+Marital Status: Married partner
+Income: $25,000 - $37,499
+Time: 6PM
+Weather: Sunny
