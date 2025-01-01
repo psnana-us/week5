@@ -1,5 +1,6 @@
 # week5
 Week5 Assignment
+The Jupyter Notebook file is available at https://github.com/psnana-us/week5/blob/main/prompt.ipynb
 Summary of Coupon Data Analysis and Findings
 The analysis of coupon data provided valuable insights into customer behavior and preferences regarding coupon acceptance. 
 
