@@ -52,3 +52,10 @@ Marital Status: Married partner
 Income: $25,000 - $37,499
 Time: 6PM
 Weather: Sunny
+
+As for next steps, 
+targetted camopaigns should be run against the Demographic Segmentation: Focus campaigns on younger age groups (21-26) and single individuals, who are the most receptive.
+Income-Based Offers: Design coupons tailored to middle-income earners ($25,000-$62,499), as they exhibit higher acceptance rates.
+Gender Preferences: Customize offers based on gender preferences, such as bar coupons for males and coffee house coupons for females.
+
+
