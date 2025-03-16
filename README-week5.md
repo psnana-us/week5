@@ -1,4 +1,4 @@
-# Vehicle Pricing Analysis Project
+# Vehicle Pricing Analysis Project using CRISP-DM approach
 
 # Business Understanding
 
@@ -98,6 +98,5 @@ Dealers can leverage predictive insights to optimize inventory management and pr
 
 # Conclusion
 
-The project successfully identified influential price factors and demonstrated high accuracy in price prediction models.
+The project successfully identified influential price factors and demonstrated high accuracy in price prediction models.The recommendation to car dealers is to consider cars using the key features as Year, model and mileage to sell the cars. 
 
-Stakeholders can use these insights to enhance decision-making regarding vehicle sales and purchases.
