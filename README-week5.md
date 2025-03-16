@@ -4,6 +4,8 @@
 
 The goal of this project is to analyze the factors that influence vehicle pricing and develop predictive models to estimate vehicle prices based on attributes such as year, make, model, condition, and odometer reading.
 
+Github: <https://github.com/psnana-us/week5>
+
 # Business Questions
 
 Which factors significantly impact vehicle prices?
